@@ -1,17 +1,30 @@
 # Objetos Inteligentes Conectados 1 sem. 2018
 
-## Turma XXX
-## Projeto: "nome do projeto"
+## Turma 6J
+## Projeto: "Sensor de umidade de solo com botão de irrigação via Twitter"
 ## Integrantes do grupo:
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
-* Aluno 5
+* Jéssica Yumi – 41531345
+* Gustavo Oliveira - 41505565
+* Victor Ribeiro – 41519485
+
+## Descrição de Hardware
+
+Materiais: 
+* Micro servo
+* Sensor de umidade do solo
+* Arduíno Uno R3
+* Jumpers 
+* Copo pequeno de plástico
+* Recipiente com terra
+
+Plataformas de desenvolvimento:
+* Node-RED
+
+
 _______________________________________
 Obs:
 
-`src/` deve conter os códigos desenvolvidos
+`src/` - códigos desenvolvidos
 
-`doc/` documentação do projeto
+`doc/` - documentação do projeto
