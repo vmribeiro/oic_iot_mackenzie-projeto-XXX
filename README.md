@@ -2,6 +2,11 @@
 
 ## Turma 6J
 ## Projeto: "Sensor de umidade de solo com botão de irrigação via Twitter"
+
+## Objetivo: 
+
+  Fazer um equipamento com arduíno que utilize um sensor de umidade de solo, de modo que quando o solo estiver úmido envie uma notificação via e-mail, para que então possamos enviar uma mensagem via twitter que ativará um micro servo que derrubará uma pequena quantidade de água no solo para melhorar a umidade do solo.
+
 ## Integrantes do grupo:
 
 * Jéssica Yumi – 41531345
