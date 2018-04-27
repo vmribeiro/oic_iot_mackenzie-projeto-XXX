@@ -48,7 +48,7 @@ Plataformas de desenvolvimento:
 _______________________________________
 Obs:
 
-## Descrição de Hardware.pdf: Contém também as imagens dos modelos. 
+## DescricaodeHardware.pdf: Contém também as imagens dos modelos. 
 
 `src/` - códigos desenvolvidos
 
