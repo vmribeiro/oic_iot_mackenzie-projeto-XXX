@@ -46,7 +46,7 @@ Benefícios de uma boa solução: é possível tomar conta das plantas e evitar 
 •	Node-RED.
 
 _______________________________________
-#Obervações:
+# Obervações:
 
 ## DescricaodeHardware.pdf: Contém também as imagens dos modelos. 
 
