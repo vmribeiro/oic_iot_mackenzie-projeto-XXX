@@ -31,6 +31,15 @@ Benefícios de uma boa solução: é possível tomar conta das plantas e evitar 
 ## Restrições do projeto
 •	Deve cobrir uma área pequena.
 
+## Requisitos
+•	A terra que será usada deve estar nas condições necessárias para a verificação do sistema (úmida ou seca).
+•	O projeto deve ser feito em pequena escala, de preferência em um vaso de planta caseiro.
+•	O projeto deve ser feito utilizando Node-RED.
+•	O projeto deve usar o protocolo firmata para comunicação com o computador (conexão com o Node-RED).
+
+## Protocolos de comunicação
+•	Firmata.
+
 # Descrição de Hardware
 
 ## Materiais: 
@@ -49,6 +58,8 @@ _______________________________________
 # Obervações:
 
 ## DescricaodeHardware.pdf: Contém também as imagens dos modelos. 
+## doc/1-visao/ : Contém o documento de visão e protótipos.
+## doc/2-casos-de-uso/ : Contém o diagrama e especificação de casos de uso.
 
 `src/` - códigos desenvolvidos
 
