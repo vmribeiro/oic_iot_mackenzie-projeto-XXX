@@ -58,9 +58,6 @@ _______________________________________
 # Obervações:
 
 ## DescricaodeHardware.pdf: Contém também as imagens dos modelos. 
-## doc/1-visao/ : Contém o documento de visão e protótipos.
-## doc/2-casos-de-uso/ : Contém o diagrama e especificação de casos de uso.
-
-`src/` - códigos desenvolvidos
-
-`doc/` - documentação do projeto
+## docs/1-visao/ : Contém o documento de visão e protótipos.
+## docs/2-casos-de-uso/ : Contém o diagrama e especificação de casos de uso.
+## src/ : Contém os códigos desenvolvidos.
