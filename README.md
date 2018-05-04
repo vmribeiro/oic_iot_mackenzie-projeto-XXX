@@ -58,6 +58,7 @@ _______________________________________
 # Obervações:
 
 ## DescricaodeHardware.pdf: Contém também as imagens dos modelos. 
+## Interfaces_e_comunicação: Contém as interfaces e protocolos utilizados.
 ## docs/1-visao/ : Contém o documento de visão e protótipos.
 ## docs/2-casos-de-uso/ : Contém o diagrama e especificação de casos de uso.
 ## src/ : Contém os códigos desenvolvidos.
