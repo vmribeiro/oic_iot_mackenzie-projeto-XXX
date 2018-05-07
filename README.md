@@ -1,6 +1,6 @@
 # Objetos Inteligentes Conectados 1 sem. 2018
 
-Turma 6J
+Turma 5J11
 
 Projeto: "Sensor de umidade de solo com botão de irrigação via Twitter".
 
