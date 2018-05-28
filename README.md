@@ -7,6 +7,8 @@
 # Objetivo: 
 Fazer um equipamento com arduíno que utilize um sensor de umidade de solo, de modo que quando o solo não estiver úmido envie uma notificação via e-mail, para que então possamos enviar uma mensagem via twitter que ativará um micro servo que derrubará uma pequena quantidade de água no solo para melhorar a umidade do solo. O sistema também disponibilizará uma visão via MQTT Dash (app android) que irá exibir a situação da umidade e um botão de ativação do servo (situação que pode ser melhor verificada na especificação de caso de uso). Além dessas funcionalidades, o sistema exibirá um dashboard via node-red com um gráfico em tempo real da leitura do sensor, e botões para ativação do servo.
 
+# Video de demonstração: https://youtu.be/aRXy2cFoOI8
+
 ## Integrantes do grupo:
 •	Jéssica Yumi – TIA: 41531345
 •	Gustavo Oliveira – TIA: 41505565
